@@ -1,0 +1,14 @@
+1 Andres Miranda Entregado Windows Formateo 150
+2 Alejandro Romero Reparando LINUX Limpieza 200
+3 Brenda Ramirez Entregado UNIX Formateo 420
+4 Luis Hernandez Reparado Windows Formateo 560
+5 Alexis Diaz Reparando Windows Formateo 350
+6 Adrian Vicente Reparando UNIX HARDRIVE 150
+7 Fernanda Osorio Reparando Windows Formateo 500
+8 Diana Juarez Reparado Windows Tarjeta 1500
+9 Juan Saramago Reparando Windows Internet 420
+10 Salvador Rodriguez Reparando Linux Ventilador 1500
+11 Eduardo Molina Entregado Windows Formateo 500
+12 Adrian Miranda Reparando Windows Limpieza 120
+13 David Portilla Reparando UNIX Revisar 500
+14 Esmeralda Alvarez Reparado Windows Memoria 120

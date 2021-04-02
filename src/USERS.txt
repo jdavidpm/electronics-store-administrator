@@ -1,0 +1,3 @@
+Invitado	invitado
+Nuevo invitado
+nuevo	nuevo
